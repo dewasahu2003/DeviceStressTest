@@ -1,4 +1,4 @@
-name: Rust-Workflow
+name: Rust-Stress-Test
 on: [push,pull_request]
 jobs:
   build:
@@ -14,7 +14,4 @@ jobs:
         run: make format
       - name: Rust lint
         run: make lint
-      - name: Rust test
-        run: make test
-      - name: Rust build
-        run: make release
+

@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Running Test on Available Device CPU|GPU");
+    RuPyGpu::test();
 }
