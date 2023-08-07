@@ -20,7 +20,7 @@ You'll need to have Rust installed on your system. You can install it from [http
 
 Clone the project and build it with Cargo:
 
-```
+```bash
 git clone https://github.com/dewasahu/DeviceStressTest.git
 cd DeviceStressTest
 cargo build
@@ -31,6 +31,6 @@ cargo build
 To run the program:
 
 ```bash
-`cargo run -- cpu` or `cargo run` : to put stress on CPU
-`cargo run -- gpu`  : to put stress on GPU
+cargo run -- cpu or cargo run : to put stress on CPU
+cargo run -- gpu  : to put stress on GPU
 ```
