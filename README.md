@@ -1,3 +1,4 @@
+[![Rust-Stress-Test](https://github.com/dewasahu2003/DeviceStressTest/actions/workflows/main.yml/badge.svg)](https://github.com/dewasahu2003/DeviceStressTest/actions/workflows/main.yml)
 # Rust Pytorch CPU|GPU stress test
 
 A sily project to stress test your training processor..
